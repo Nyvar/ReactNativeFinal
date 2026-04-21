@@ -1,0 +1,21 @@
+export type RootStackParamList = {
+  Loading: undefined;
+  Home:undefined;
+  Login: undefined;
+  TeacherDashboard: undefined;
+  StudentDashboard: undefined;
+  Attendance: undefined;
+  Homework: undefined;
+  Result: undefined;
+  Quiz: undefined;
+  Notice: undefined;
+  AddAccount: undefined;
+  ForumEvents:undefined;
+  ExamRoutine:undefined;
+  Solutions :undefined;
+  StudentQuestionList:undefined;
+  AddQuestion:undefined;
+  StartQuiz:undefined;
+  QuizQuestion:undefined;
+  QuizScore:undefined;
+};
